@@ -36,4 +36,4 @@ resource "aws_s3_bucket" "second" {
     ManagedBy   = "spacelift"
     Environment = "demo"
   }
-}
+}# trigger
